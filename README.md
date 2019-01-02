@@ -1,4 +1,3 @@
-**Introduction**
 
 In this project, the dataset used is the “Business Sales” dataset available on http://roycekimmons.com/tools/generated_data/sales.  It contains information about Salesperson performance reports for an electronic company. The various fields are Salary, Division, Level Of Education, Training Level, Work Experience and Sales.
 Various questions have been addressed are as follows:
