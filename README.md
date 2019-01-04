@@ -10,4 +10,11 @@ Various questions have been addressed are as follows:
 5) What percentage of variance in Salary can be explained by Division, Level Of Education, Training Level, Work Experience and Sales
 
 
+The main conclusions are summarized below:
+
+1)	There is statistically significant difference in the mean salaries of sales persons who have a bachelor’s degree and those who have a high school degree
+2)	The median salaries of sales persons who have  a bachelor’s degree is not greater than those of salespersons who have a high school education.
+3)	93.95 % of the variance in the Salary can be explained by the variables Division, Level Of Education, Training Level, Work Experience and Sales.
+
+
 
