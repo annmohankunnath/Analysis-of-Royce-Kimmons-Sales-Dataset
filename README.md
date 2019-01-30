@@ -143,9 +143,9 @@ Conclusion: As the sales made by employees increases, their salary also seems to
 
 
 **Linear Regression:**
-A linear regression model was fit with Salary being the dependent variable and Sales, Work Experience, Division, Level Of Education and Training Level being the independent variables. The estimated coefficients, standard errors, t values and p values are as follows:
 
-<img src="linear reg.png"/>
+
+
 
 
 From the p values, we can see that all the independent variables except training level have statistically significant linear relationship with salary. The estimated equation is as follows: 
